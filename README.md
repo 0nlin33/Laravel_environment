@@ -3,7 +3,7 @@ Laravel environment repo
 
 - Have Docker Installed
 
-- Clone the repor into your system
+- Clone the repo into your system
 
 - Go into the folder where  you cloned this repo and then, 
 
