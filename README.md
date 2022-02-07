@@ -36,16 +36,17 @@ Above steps will complete the requirements to setup the environment. Now you can
 
 Port Information:
 
-service     projected port:
-/images     container port
-Nginx:      80:80
-Mysql:      3306:3306
-phpmyadmin: 8081:80
-redis:      6379:6379
-npm:        3000:3000
-            3001:3001
-mailhog:    1025:1025
-            8025:8025
+Nginx-      80:80
+
+Mysql-      3306:3306
+
+phpmyadmin- 8081:80
+
+redis-      6379:6379
+
+npm-        3000:3000 (3001:3001)
+            
+mailhog-    1025:1025 (8025:8025)
             
 You can change the ports to fit your requirements.      
       
