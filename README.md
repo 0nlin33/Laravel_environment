@@ -35,6 +35,7 @@ Above steps will complete the requirements to setup the environment. Now you can
 
 
 Port Information:
+Mapped Ports: Exposed ports
 
 Nginx-      80:80
 
