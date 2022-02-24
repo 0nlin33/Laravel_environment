@@ -33,6 +33,10 @@ Above steps will complete the requirements to setup the environment. Now you can
 
       ~$ docker-compose up -d
 
+Change the contents of the .env file if and as per need.
+!(Run the command to generate the artisan key if needed.)
+
+
 
 Port Information:
 
